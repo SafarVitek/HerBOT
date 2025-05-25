@@ -4,6 +4,7 @@ from discord import app_commands
 import random
 import csv
 import os
+import webserver
 
 TOKEN = os.environ['discordkey']
 QUESTIONS_FILE = 'questions.csv'
@@ -90,5 +91,7 @@ async def otazka_irl(interaction: discord.Interaction):
         return
 
     await interaction.response.send_message(f":bum: {tazatel.mention} CumJar otázku prosím :zabickasdricko: ")
+
+webserver.keep_alive()
 
 bot.run(TOKEN)
