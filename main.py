@@ -24,8 +24,6 @@ def nacti_otazky():
                 if len(row) >= 2:
                     okruh = row[0].strip()
                     text = row[1].strip()
-                    print(okruh)
-                    print(text)
                     if okruh and text:
                         otazky.append((okruh, text))
     except Exception as e:
@@ -66,7 +64,7 @@ async def otazka_z_okruhu(interaction: discord.Interaction, cislo: int):
     if not vybrane:
         await interaction.response.send_message(f"Nebyly nalezeny otázky pro okruh {cislo}.")
         return
-    await interaction.response.send_message(random.choice(vybrane))
+    await interaction.response.send_message(f"Okruh {vybrane}: {random.choice(vybrane)}")
 
 
 @bot.tree.command(name='okruh', description='Vrátí náhodný okruh.')
