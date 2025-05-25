@@ -1,3 +1,204 @@
-1;aaaaaaa
-1;bbbbbbbb
-2;ccccccccc
+1; dioda, substráty
+1; tranzistor
+1; MOSFET, CMOS
+1; realizace logických hradel
+2; MUX, DMUX
+2; dekodér, kodér
+2; binární sčítačka
+3; kombinační vs. sekvenční obvody
+3; klopné obvody
+3; registry, čítače
+3; stavové automaty
+4; typy pamětí, hierarchie, lokalita
+4; organizace RVP
+5; vestavěné systémy
+5; komunikační rozhraní, periferie
+5; GPIO, hodiny
+5; převodníky
+6; sběrnice, propojení zařízení
+6; arbitrace, řízení sběrnic
+6; řadič, přerušení, DMA, polling
+6; mapovaný a izolovaný IO
+7; princip fungování počítače
+7; činnost procesoru, provádění instrukcí
+7; počítačové architektury
+7; řetězené zpracování instrukcí
+8; účel minimalizace, logické výrazy
+8; Karnaughova mapa
+8; Quine McCluskey
+9; vlastnosti reprezentací čísel
+9; kódování celých čísel
+9; kódování desetinných čísel
+9; aritmetické operace s čísly v počítači
+10; výhody a srovnání FPGA
+10; architektura FPGA
+10; způsoby popisu obvodů
+10; návrh aplikací pro FPGA
+11; úsečky, rasterizace úseček
+11; rasterizace kružnic
+11; křivky, rasterizace křivek
+12; maticové transformace
+12; projekce
+12; vykreslovací řetězec
+12; reprezentace 3D objektů
+13; principy GUI, komunikační kanály a módy
+13; systémy řízené událostmi
+13; standardní prvky GUI, vzor MVC
+13; AJAX
+14; komplexní čísla, signály
+14; spektrální analýza
+14; DFT (DCT), IDFT
+14; DFŘ
+14; Fourierova řada
+14; FT, DTFT
+14; Diracův impulz
+15; filtry
+15; diferenční rovnice
+15; impulzní odezva
+15; přenosová funkce, z-transformace
+15; frekvenční charakteristika
+15; spojité filtry
+16; množiny
+16; relace
+16; uzávěry relací, rozklad relace
+16; relace ekvivalence
+16; zobrazení, obraz, úplný vzor
+17; vlastnosti funkcí jedné proměnné
+17; okolí, limita
+17; derivace, L'Hospital, metody
+17; integrace, metody per partes, substituce a parciální zlomky
+17; určité a nevlastní integrály
+17; parciálnální derivace, gradient, tečná rovina
+17; lokální extrémy, vázané extrémy
+17; diferenciální rovnice
+18; druhy číselných soustav
+18; metody převodu číselných soustav a jejich využití
+19; výroková logika, zápis formulí
+19; splitelnost, platnost
+19; platné formule, úpravy formulí
+19; normální formy
+19; predikátová logika 1. řádu, teorie, syntaxe a sémantika
+20; algebry, Booleova algebra
+20; teorie grup
+20; svazy
+21; formální jazyky
+21; regulární výrazy
+21; konečné automaty
+21; převod RV na KA
+21; převod KA na KA bez epsilon přechodů a DKA
+22; bezkontextové gramatiky
+22; zásobníkové automaty
+23; fáze překladu, jejich vztahy a sousled
+23; lexikální analýza
+23; syntaktická analýza, metody
+23; sémantická analýza, syntaxí řízený překlad
+23; střední a zadní část překladače
+24; determinant matice
+24; řešení soustav rovnic
+24; iterační metody pro soustavy lineárních rovnic
+24; metody řešení diferenciálních rovnic
+25; grafy, pojmy
+25; grafové algoritmy (prohledávání)
+25; zvláštní druhy grafů
+25; hledání minimální kostry
+25; hledání souvislých komponent
+26; slepé metody prohledávání stavového prostoru
+26; řešení CSP
+26; informované metody prohledávání stavového prostoru
+26; řešení úloh rozkladem na podúlohy
+26; metody hraní her
+27; učení bez učitele
+27; učení s učitelem
+27; posilované učení
+28; systémy, čas, modely
+28; metoda Monte Carlo
+28; simulace
+28; Petriho sítě, SHO
+28; algoritmy řízení simulace
+28; celulární automaty
+29; datové typy
+29; stromy
+29; řídicí struktury
+30; sekvenční vyhledávání
+30; nesekvenční vyhledávání
+30; řazení, principy
+31; generování pseudonáhodných čísel
+31; kombinatorika, pravděpodobnost
+31; diskrétní náhodná veličina
+31; spojitá náhodná veličina
+31; náhodný vektor
+31; statistika, pojmy
+31; odhady
+31; testování hypotéz
+31; regresní a korelační analýza
+32; účel a vlastnosti složitosti
+32; asymptotická časová složitost, třídy složitosti
+32; složitosti typických algoritmů
+33; SW inženýrství, účel
+33; etapy vývoje SW, významy a náplň
+33; modely životního cyklu
+33; metodiky v modelech životního cyklu
+34; účel a typy diagramů, použití UML
+34; diagramy struktury
+34; diagramy chování
+34; diagramy interakce
+35; konceptuální modelování, ER diagramy
+35; normalizace schématu databáze
+35; definice relační databáze
+35; relační algebra
+36; reprezentace a uložení strukturovaných dat
+36; serializace, deserializace
+36; SQL
+36; transakce
+37; HTML, CSS, JavaScript
+37; API
+37; sezení
+37; autentizace
+38; souborové systémy
+38; členění sekundární paměti, fragmentace
+38; přístup na disk, logické disky, žurnálování
+38; uložení souboru, i-uzel, B+stromy, extentové stromy
+38; čtení a zápis do souborů
+38; správa paměti
+38; segmentace a stránkování
+38; stránkování na žádost
+39; proces, prvky správy procesů
+39; start systému
+39; plánování procesů
+39; vlákna, úlohy, skupina procesů, sezení
+39; signály
+39; přístup ke sdíleným prostředkům
+39; chyby při přístupu ke sdíleným prostředkům
+39; synchronizační nástroje
+39; deadlock
+39; transakce
+40; vlastnosti OOJ
+40; objekt, třída, instance
+40; VMT, vazba, konstruktory a destruktory
+40; rozhraní, slot
+40; OO vývoj SW, návrhové vzory
+41; počítačové jazyky
+41; instrukce, registry
+41; flagy (EFLAGS), účel
+41; zásobník, konvence volání
+41; FPU
+42; HTTP
+42; elektronická pošta (POP, IMAP, SMTP)
+42; zabezpečení (PGP, TLS/SSL, DNSSEC, IPsec)
+42; DNS, druhy záznamů, přenos zón
+42; chain of trust
+42; IP telefonie (PSTN, kodeky, SIP, RTP, RTCP)
+42; SNMP
+42; NetFlow
+42; správa sítí
+43; modely síťové komunikace
+43; formování rámců, zapouzdření
+43; transportní vrstva, klient-server
+43; TCP, UDP
+43; řešení zahlcení, QoS
+43; síťová vrstva, IPv4, IPv6
+43; ICMP, DHCP, ARP
+44; směrování, směrovací tabulka
+44; algoritmus Link-state
+44; algoritmus Distance vector
+44; šifrování, autentizace, integrita dat
