@@ -1,0 +1,44 @@
+IEL - Princip činnosti polovodičových prvků (dioda, bipolární a unipolární tranzistor ve spínacím režimu, realizace logických členů NAND a NOR v technologii CMOS).
+INC, INP - Kombinační logické obvody (multiplexor, demultiplexor, kodér, dekodér, binární sčítačka).
+INC, INP - Sekvenční logické obvody (klopné obvody, čítače, registry, stavové automaty – reprezentace a implementace).
+INP, IOS - Hierarchie paměti v počítači (typy a principy pamětí, princip lokality, organizace rychlé vyrovnávací paměti).
+IMP - Vestavěné systémy (mikrokontrolér, periferie, rozhraní, převodníky).
+IMP, INC, IOS - Principy řízení a připojování periferních zařízení (přerušení, programová obsluha, přímý přístup do paměti, sběrnice).
+INP, INC - Princip činnosti počítače (řetězené zpracování instrukcí, RISC, CISC).
+INC - Minimalizace logických výrazů (algebraické metody, Karnaughova mapa, Quine McCluskey).
+ISU, INP - Reprezentace čísel a základní dvojkové aritmetické operace v počítači (doplňkové kódy, sčítání, odčítání, násobení, pevná a plovoucí řádová čárka, standard IEEE 754).
+INC - Technologie FPGA (vnitřní struktura, LUT), kroky návrhu aplikací využívajících FPGA a základy syntetizovatelného popisu hardware (strukturní a behaviorální popis obvodů).
+IZG - 2D vektorová grafika: metody rasterizace úseček a polygonů, reprezentace objektů pomocí Bézierovy křivky.
+IZG - Transformace a zobrazení 3D polygonálních modelů, principy programovatelného vykreslovacího řetězce.
+ITU - Principy grafických uživatelských rozhraní (komunikační kanály, módy komunikace, systémy řízené událostmi, standardní prvky rozhraní, vzor MVC).
+ISS - Spektrální analýza spojitých a diskrétních signálů.
+ISS - Číslicové filtry (diferenční rovnice, impulsní odezva, přenosová funkce, frekvenční charakteristika).
+IDM - Množiny, relace a zobrazení.
+IMA1, IMA2 - Diferenciální a integrální počet funkcí jedné a více proměnných.
+ISU - Číselné soustavy a převody mezi nimi.
+IDM - Výroková logika a predikátová logika. Syntax a sémantika výrokové logiky. Splnitelnost a platnost. Logická ekvivalence a logický důsledek. Normální formy. Jazyk predikátové logiky prvního řádu. Syntax, termy a formule, volné a vázané proměnné. Dokazování ve výrokové a predikátové logice. Prvořádové teorie a jejich vlastnosti.
+IDM - Boolovy algebry.
+IFJ - Regulární jazyky a jejich modely (konečné automaty, regulární výrazy).
+IFJ - Bezkontextové jazyky a jejich modely (zásobníkové automaty, bezkontextové gramatiky).
+IFJ - Struktura překladače a charakteristika fází překladu (lexikální analýza, deterministická syntaktická analýza a generování kódu).
+ILG, IMS - Numerické metody (přímé a iterační metody pro řešení soustav lineárních rovnic, numerické řešení obyčejných diferenciálních rovnic).
+IDM, IAL - Teorie grafů. Pojem grafu, základní pojmy, isomorfismus grafů, souvislost. Grafové algoritmy pro hledání nejkratší cesty a minimální kostry.
+IZU - Řešení úloh (prohledávání stavového prostoru, rozklad na podúlohy, metody hraní her).
+IZU - Strojové učení (učení s učitelem, učení bez učitele, posilované učení).
+IMS - Principy modelování a simulace systémů (systémy, modely, simulace, algoritmy řízení simulace).
+IZP - Datové a řídicí struktury imperativních programovacích jazyků.
+IAL - Vyhledávání a řazení.
+IPT - Pravděpodobnost a statistika (základní pojmy, náhodná veličina a vektor, rozdělení pravděpodobnosti, generování pseudonáhodných čísel, bodové a intervalové odhady parametrů, testování hypotéz, regresní a korelační analýza).
+IAL - Hodnocení složitosti algoritmů (paměťová a časová složitost, asymptotická časová složitost, určování časové složitosti).
+IUS - Životní cyklus softwaru (charakteristika etap a základních modelů).
+IUS - Jazyk UML.
+IDS - Konceptuální modelování a návrh relační databáze.
+IDS - Reprezentace a uložení strukturovaných dat, serializace a deserializace, relační datový model, jazyk SQL, transakce (databázové a business).
+IIS, ITU - Webová uživatelská a aplikační rozhraní, správa sezení a autentizace.
+IOS - Principy a struktury správy souborů a správy paměti.
+IOS - Plánování a synchronizace procesů, transakce.
+IPP - Objektová orientace (základní koncepty, třídně a prototypově orientované jazyky, OO přístup k tvorbě SW).
+ISU - Programování v jazyku symbolických instrukcí (činnost počítače, strojový jazyk, symbolický jazyk, assembler).
+ISA - Služby aplikační vrstvy (web, e-mail, DNS, IP telefonie, správa SNMP, Netflow).
+IPK, ISA - TCP/IP komunikace (model klient-server, protokoly TCP, UDP a IP, řízení a správa toku TCP).
+IPK, ISA - Směrování a zabezpečení přenosů v počítačových sítích (algoritmy Link-State, Distance-Vector, šifrování, autentizace a integrita dat).
