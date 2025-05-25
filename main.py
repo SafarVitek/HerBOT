@@ -90,7 +90,7 @@ async def otazka_irl(interaction: discord.Interaction):
         await interaction.response.send_message("Herbert se ztratil :(")
         return
 
-    await interaction.response.send_message(f":bum: {tazatel.mention} CumJar otázku prosím :zabickasdricko: ")
+    await interaction.response.send_message(f"<:bum:1035072418827468830> {tazatel.mention} CumJar otázku prosím <:zabickasdricko:1310550985256730734> ")
 
 webserver.keep_alive()
 
