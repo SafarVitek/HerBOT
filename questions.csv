@@ -11,6 +11,8 @@
 3; stavové automaty
 4; typy pamětí, hierarchie, lokalita
 4; organizace RVP
+4; fyzikální principy pamětí
+4; mapování RAM do RVP
 5; vestavěné systémy
 5; komunikační rozhraní, periferie
 5; GPIO, hodiny
